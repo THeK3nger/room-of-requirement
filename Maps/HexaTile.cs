@@ -1,6 +1,8 @@
 ﻿using UnityEngine;
 using System.Collections.Generic;
 
+using RoomOfRequirement.Maps;
+
 /// <summary>
 /// Representation for a tile in a hexagonal grid.
 /// </summary>

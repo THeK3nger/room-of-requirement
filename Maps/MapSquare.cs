@@ -12,6 +12,8 @@ using System.Diagnostics.CodeAnalysis;
 
 using UnityEngine;
 
+namespace RoomOfRequirement.Maps {
+
 /// <summary>
 /// Representation for a grid square. It store various information about a 2D grid square.
 /// </summary>
@@ -259,4 +261,5 @@ public class MapSquare
     {
         return string.Format("[{0}, {1}]", x, y);
     }
+}
 }
